@@ -1,0 +1,6 @@
+{
+  "name": "Creative Writing Ghostwriter",
+  "description": "An atmospheric story opener that analyzes scene images, isolates literal text labels to prevent misinformation, and ghostwrites immersive creative story paragraphs with custom synthetic voice narration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
